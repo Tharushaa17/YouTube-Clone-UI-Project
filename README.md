@@ -6,6 +6,9 @@ https://ornate-melomakarona-6b4083.netlify.app/
 This is a UI UX Application created based on ReactJS & This Web Application made with Material-UI that makes YouTube Videos as a Clone I used Rapid API YouTube clone to get data 
 Here mostly Focused on the UI and the API Data fetching and manipulating
 
+here in a sidebar, I have implemented the categories and according to the categories we can get the videos and then we can navigate to channels and we can play videos as well
+other than that we have a searching option and the app the Headings are Dynomic
+
 
 ![Youtube Clone](https://github.com/Tharushaa17/YouTube-Clone/assets/61498947/79d6c80c-a0c9-40d2-99a4-b141e33d82f7)
 ![ym](https://github.com/Tharushaa17/YouTube-Clone/assets/61498947/2aba1d0d-9836-46da-82ee-5bc172ab2990)
